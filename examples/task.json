@@ -1,0 +1,10 @@
+{
+  "id": "t-0001",
+  "title": "Compare three note-taking apps for freelancers",
+  "goal": "A one-page comparison a person can read in five minutes.",
+  "done_when": "work/note-apps/comparison.md exists with a table of price, offline support and export formats for each app, plus a one-line recommendation, each fact with a source URL.",
+  "output_path": "work/note-apps/comparison.md",
+  "result_path": "results/t-0001.md",
+  "allowed": ["read files in this folder", "web search", "write under work/ and results/"],
+  "not_allowed": ["publish", "contact anyone", "spend money"]
+}
