@@ -8,7 +8,7 @@ It gives you three things:
 - `CLAUDE.md`: the rules the worker follows (where it may write, what it must hand back to you, which text it must not obey)
 - `examples/`: a task file and a result note, so the loop is concrete
 
-Scope is deliberately small: **one task per night, done safely.** Planning many tasks, task boards and reporting are not included. For those, see the full version: https://nightkeep.github.io/overnight/
+Scope is deliberately small: **one task per night, done safely.** Planning many tasks, task boards and reporting are not included. For those, see the full version: https://nightkeep.github.io/overnight/?utm_source=github
 
 ## Start in 5 minutes
 
