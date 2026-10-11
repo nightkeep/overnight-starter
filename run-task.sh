@@ -11,6 +11,9 @@
 
 set -euo pipefail
 
+# launchd and cron start with a minimal PATH that usually misses the claude binary.
+export PATH="$HOME/.local/bin:/opt/homebrew/bin:/usr/local/bin:$PATH"
+
 DIR="$(cd "$(dirname "$0")" && pwd -P)"
 TASK="${1:-}"
 
