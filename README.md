@@ -10,6 +10,9 @@ It gives you three things:
 
 Scope is deliberately small: **one task per night, done safely.** Planning many tasks, task boards and reporting are not included. For those, see the full version: https://nightkeep.github.io/overnight/?utm_source=github
 
+
+> **Your Claude account.** You need your own Anthropic account. For unattended, scheduled runs, Anthropic's documentation recommends signing in with an Anthropic API key. If you use a Claude Pro or Max plan instead, that use is governed by your own agreement with Anthropic, so check its terms. This project never handles your Claude credentials and is not affiliated with Anthropic.
+
 ## Start in 5 minutes
 
 1. Install Claude Code and sign in: <https://code.claude.com/docs/en/quickstart>
